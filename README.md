@@ -47,4 +47,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-The data was successfully read, cleaned, and outliers were removed using IQR and zscore methods.
+The dataset was successfully preprocessed and analyzed using various Exploratory Data Analysis (EDA) techniques.
